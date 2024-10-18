@@ -81,7 +81,7 @@ ol {
 }
 
 .search-form__fieldset-title {
-  font-family: "Fira Sans Condensed",sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -231,10 +231,6 @@ ol {
   gap: 30px;
 }
 
-.preloader-template {
-  position: absolute;
-}
-
 .content__list-item:not(:last-of-type) {
   display: flex;
   margin-bottom: 30px;
@@ -320,5 +316,4 @@ ol {
   gap: 10px;
   width: 399px;
   height: 34px;
-  /* border: 1px solid #ffffff; */
 }
